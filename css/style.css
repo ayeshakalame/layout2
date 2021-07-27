@@ -1,0 +1,90 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+header{
+    overflow: hidden;
+}
+.logo{
+    background-color: rgb(186, 230, 236);
+    text-align: center;
+    height: 80px;
+    width: 20%;
+    float: left;
+}
+nav{
+    background-color: rgb(248, 215, 253);
+    text-align: center;
+    height: 80px;
+    width: 80%;
+    float: right;
+}
+.header_bar{
+    background-color: rgb(206, 185, 253);
+    text-align: center;
+    height: 80px;
+}
+.blank{
+    background-color: rgb(236, 232, 236);
+    height: 25px;
+}
+.content{
+    overflow: hidden;
+}
+.left_content{
+    background-color: rgb(188, 215, 255);
+    text-align: center;
+    height: 500px;
+    width: 25%;
+    float: left;
+}
+.center_content{
+    background-color: rgb(193, 252, 222);
+    text-align: center;
+    height: 500px;
+    width: 50%;
+    float: left;
+}
+.right_content{
+    background-color: rgb(255, 212, 226);
+    text-align: center;
+    height: 500px;
+    width: 25%;
+    float: right;
+}
+.top{
+    height: 30%;
+    text-align: center;
+    background-color: rgb(249, 200, 255);
+}
+.middle{
+    background-color: rgb(156, 192, 147);
+    height: 40%;
+    text-align: center;
+    overflow: hidden;
+}
+.bottom{
+    height: 30%;
+    text-align: center;
+    background-color: rgb(248, 193, 255);
+}
+.middle_left{
+    background-color: rgb(214, 255, 255);
+    text-align: center;
+    height: 100%;
+    width: 50%;
+    float: left;
+}
+.middle_right{
+    background-color: rgb(255, 197, 197);
+    text-align: center;
+    height: 100%;
+    width: 50%;
+    float: right;
+}
+ 
+.footer{
+    background-color: rgb(255, 214, 214);
+    text-align: center;
+    height: 80px;
+}
